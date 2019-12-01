@@ -1,0 +1,7 @@
+body{
+background-image: url(images/back1.jpg);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+background-attachment:fixed;
+height:100%;
+width:100%;
+}
